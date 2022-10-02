@@ -1,0 +1,4 @@
+Student Name: Muhammed Lamin Sarr
+Student Number: 697990
+Student Class: ITB
+URL Student repository: https://github.com/377nani/sarr.github.io/edit/main/student.txt 
